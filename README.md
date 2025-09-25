@@ -17,12 +17,11 @@ El proyecto está en fase **MVP (Minimum Viable Product)**, con el objetivo de m
 
 ##  Tecnologías utilizadas
 
-- **Frontend** → Vite + React + Tailwind CSS  
-- **Backend** → Node.js / Express (en desarrollo MVP)  
-- **IA** → OpenAI Whisper (transcripción de audio) + GPT (análisis de contexto)  
-- **Base de datos** → Firestore (Firebase)  
-- **Hosting** → GitHub Pages / Vercel (MVP)
-
+- JavaScript
+- Chrome APIs
+- Python
+- TensorFlow
+- Social APIs
 ---
 
 ##  Sobre el proyecto
@@ -50,4 +49,5 @@ npm run dev
 - Abrí en tu navegador:
 
 http://localhost:5173
+
 
